@@ -1,0 +1,93 @@
+
+
+.home-pad20{
+	padding: 20px;
+}
+
+.home-main {
+	height: 95vh;
+	display: flex;
+	align-items: center;
+}
+
+.home-main img{
+	float: left;
+	padding: 25px;
+}
+
+.home-main div{
+	font-size: 30px;
+}
+
+.home-main h1{
+	padding-left: 30px;
+	font-size: 64px;
+}
+
+.home-main::after{
+	clear: both;
+}
+
+.home-container-1{
+	display: flex;
+}
+
+.home-container-2{
+
+}
+
+.home-container-3{
+
+}
+
+.home-container-1-box{
+	flex: 1;
+	height: 300px;	
+}
+
+.home-box-blue{
+	color: rgb(255, 255, 255);
+	background-color: rgb(74, 160, 216);
+}
+
+.home-box-purple{
+	color: rgb(255, 255, 255);
+	text-align: center;
+	background-color: rgb(160, 91, 255);
+}
+
+
+.home-box-green{
+	color: rgb(255, 255, 255);
+	text-align: center;
+	background-color:  rgb(145, 198, 96);
+}
+
+.home-box-orange{
+	color: rgb(255, 255, 255);
+	text-align: center;
+	background-color:  rgb(238, 175, 73);
+}
+
+
+
+.home-apply{
+	font-size: 28px;
+	padding-top: 50px;
+	padding-left: 50px;
+	color: #777;
+}
+
+.home-apply h3{
+	color: rgb(74, 160, 216);
+}
+
+.home-quotes{
+	font-size: 28px;
+	padding-top: 50px;
+	padding-left: 50px;
+}
+
+.home-quotes h3{
+	color: rgb(74, 160, 216);
+}
