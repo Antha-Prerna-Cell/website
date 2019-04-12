@@ -39,6 +39,7 @@
 	<!--our css files-->
 	<link rel="stylesheet" href="stylesheets/index.css">
 	<link rel="stylesheet" href="stylesheets/home.css">
+	<link rel="stylesheet" href="stylesheets/team.css">		
 	
 	<!--google fonts-->
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
@@ -54,7 +55,12 @@
 	</nav>
 
 	<!-- HOME page with id="home" -->
-	<?php	include_once('home.php');?>
+	<?php	//include_once('home.php');?>
+
+	<!-- TEAM page with id="team" -->
+	<?php	//include_once('team.php');?>
+
+
 
 	<footer>
 		

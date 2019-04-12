@@ -1,0 +1,50 @@
+
+.team-main-container{
+	display: flex;
+	flex-direction: column;
+
+	padding: 5%;
+}
+
+.team-heading{
+	flex: 1;
+}
+
+.team-heading h1{
+	padding-bottom: 50px;
+	text-align: center;
+	font-size: 38px;
+	color: rgb(74, 160, 216);
+}
+
+.team-container{
+	flex: 1;
+	flex-wrap: wrap;
+
+	display: flex;
+	justify-content: space-between;
+}
+
+.team-container a{
+	display: block;
+	text-decoration: none;
+	color: #777;
+}
+
+.team-member{
+	flex: 1;
+
+	flex-basis: 200px;
+	margin: 50px;
+	text-align:center;
+	line-height: 1.7;
+	font-style: italic;	
+}
+
+.team-member img{
+	width: 150px;
+	height: 150px;
+	border-radius: 100px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
