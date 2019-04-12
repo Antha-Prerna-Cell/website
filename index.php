@@ -53,43 +53,8 @@
 		
 	</nav>
 
-	<div class="home-main home-box-blue home-pad20">
-		<div>
-			<img src="assets/logo.svg">
-		</div>
-		<div>
-			<h1>Antha Preena Cell</h1>
-			<strong>Software Development Cell of Ramanujan College</strong>
-		</div>
-	</div>
-
-	<div class="home-container-1 ">
-		<div class="home-container-1-box home-box-orange home-pad20">
-				<h2>Want an App/Website for your Business?</h2>
-		</div>
-		<div class="home-container-1-box home-box-purple home-pad20">
-				<h2>We Code cool stuff for you</h2>
-		</div>
-		<div class="home-container-1-box home-box-green home-pad20">
-				<h2>With Latest Technologies</h2>
-		</div>
-	</div>
-
-	<div class="home-container-2 home-apply home-pad20">
-			<h3>How to Apply?</h3>
-			Mail us at abc@gmail.com with your contact details and attach a pdf with <a href="assets/proposal.pdf">this</a> format containing details of your desired product.
-	</div>
-
-	<div class="home-container-3 home-quotes home-pad20">
-			<h3>Quotes</h3>
-			<div>
-				<div>
-
-
-					
-				</div>
-			</div>
-	</div>
+	<!-- HOME page with id="home" -->
+	<?php	include_once('home.php');?>
 
 	<footer>
 		
