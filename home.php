@@ -35,7 +35,7 @@
 	<!-- HOME-CONTAINER Ends -->
 
 	<!-- HOME-APPLY -->
-	<div class="home-apply home-pad20">
+	<div id="apply" class="home-apply home-pad20">
 			<h3>How to Apply?</h3>
 			Mail us at abc@gmail.com with your contact details and attach a pdf with <a href="assets/proposal.pdf">this</a> format containing details of your desired product.
 	</div>

@@ -40,6 +40,8 @@
 	<link rel="stylesheet" href="stylesheets/index.css">
 	<link rel="stylesheet" href="stylesheets/home.css">
 	<link rel="stylesheet" href="stylesheets/team.css">		
+	<link rel="stylesheet" href="stylesheets/projects.css">		
+	<link rel="stylesheet" href="stylesheets/events.css">		
 	
 	<!--google fonts-->
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
@@ -48,22 +50,71 @@
 </head>
 
 
-<body>
+<body onload="shiftFocusToHome()">
 
 	<nav>
-		
+		<div id="nav-options" >
+	  			<div class="nav-options-input" onclick="loadPage('home')">Home</div>
+	  			<div class="nav-options-input" onclick="loadPage('apply')">Apply</div>
+	  			<div class="nav-options-input" onclick="loadPage('projects')">Projects</div>
+	  			<div class="nav-options-input" onclick="loadPage('events')">Events</div>
+	  			<div class="nav-options-input" onclick="loadPage('team')">Team</div>
+	  			<div class="nav-options-input" onclick="loadPage('contacts')">Contacts</div>
+		</div>
+
+		<script type="text/javascript">
+
+			function shiftFocusToHome(){
+				document.getElementById("projects").style.display = "none";
+				document.getElementById("events").style.display = "none";
+				document.getElementById("team").style.display = "none";
+
+				document.getElementById("home").style.display = "block";
+			}
+
+			function loadPage(id){
+				if(id!="contacts")
+				{
+					document.getElementById("home").style.display = "none";
+					document.getElementById("projects").style.display = "none";
+					document.getElementById("events").style.display = "none";
+					document.getElementById("team").style.display = "none";
+
+					if((id!="apply")&&(id!="contacts"))
+						document.getElementById(id).style.display = "block";
+
+					if(id=="apply")
+						document.getElementById("home").style.display = "block";
+				}
+				document.getElementById(id).scrollIntoView(); 
+			}
+		</script>
+
 	</nav>
 
+
+
 	<!-- HOME page with id="home" -->
-	<?php	//include_once('home.php');?>
+	<?php	include_once('home.php');?>
+
+	<!-- PROJECTS page with id="projects" -->
+	<?php	include_once('projects.php');?>
+
+	<!-- EVENTS page with id="events" -->
+	<?php	include_once('events.php');?>
 
 	<!-- TEAM page with id="team" -->
-	<?php	//include_once('team.php');?>
+	<?php	include_once('team.php');?>
 
 
 
-	<footer>
-		
+
+	<footer id="contacts">
+		<img src="assets/logo.svg">
+		<strong>Antha Prerna Cell</strong> &copy;
+
+		<div class="footer-link"><a href="">Mail-us <img src="assets/mail-logo.svg"></a></div>
+		<div class="footer-link"><a href="">Call-us <img src="assets/call-logo.svg"> +91 9000000000</a></div>
 	</footer>
 	
 </body>

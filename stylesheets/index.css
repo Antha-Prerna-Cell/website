@@ -6,3 +6,93 @@ html,body
 	background-color: white;
 	scroll-behavior: smooth;
 }
+
+#nav-options{
+	float: right;
+
+}
+
+.nav-options-input{
+	display: inline-block;
+	cursor: pointer;
+
+	padding: 15px;
+	margin-left: 10px;
+	font-weight: bold;
+}
+
+.nav-options-input:hover{
+	background-color: rgb(84, 182, 247);
+}
+
+nav{
+	background-color: rgb(74, 160, 216);
+	color: #FFF;
+}
+
+
+nav:after{
+	display: block;
+	content: "";
+	clear: both;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*FOOTER STARTS HERE*/
+
+footer{
+
+	display: block;
+	padding: 45px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	background-color: rgb(53, 65, 73);
+	color: rgb(255,255,255);
+	font-size: 28px;
+}
+
+footer img{
+	width: 30px;
+	height: 30px;
+}
+
+.footer-link{
+	float: right;
+	padding-left: 20px;
+	padding-right: 20px;
+	display: inline-block;
+}
+
+footer:after{
+	content: "";
+	display: block;
+	clear: both;
+}
+
+
+.footer-link a{
+	text-decoration: none;
+	color: #fff;
+	font-size: 16px;
+}
