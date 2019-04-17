@@ -4,7 +4,7 @@
 	<div class="projects">
 
 		<div class="projects-heading">
-			<h1>Our Projects</h1>			
+			<h1> Our Projects <i class="fas fa-medal"></i></h1>			
 		</div>
 
 		<!--PROJECTS_CONTAINER-->

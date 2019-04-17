@@ -5,7 +5,7 @@
 	<div class="team-main-container">
 		
 		<div class="team-heading">
-				<h1>Meet our Team</h1>
+				<h1>Meet our Team <i class="fas fa-users"></i></h1>
 		</div>
 
 		<!--TEAM-CONTAINER-->

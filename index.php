@@ -34,8 +34,7 @@
 	<link rel="icon" href="img/turington logo.jpeg">
 	
 	<!-- Add social media icon library -->
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-	
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
 	<!--our css files-->
 	<link rel="stylesheet" href="stylesheets/index.css">
 	<link rel="stylesheet" href="stylesheets/home.css">
@@ -110,8 +109,8 @@
 
 
 	<footer id="contacts">
-		<img src="assets/logo.svg">
-		<strong>Antha Prerna Cell</strong> &copy;
+		<img src="assets/apc-white-logo.png">
+		<strong>Antha Prerna Cell</strong> <sup> &copy; </sup>
 
 		<div class="footer-link"><a href="">Mail-us <img src="assets/mail-logo.svg"></a></div>
 		<div class="footer-link"><a href="">Call-us <img src="assets/call-logo.svg"> +91 9000000000</a></div>

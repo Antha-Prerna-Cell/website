@@ -4,7 +4,7 @@
 	<!-- UPCOMING EVENT-->
 	<div class="events">
 		<div class="events-heading">
-			<h2>Upcoming Events</h2>			
+			<h2>Upcoming Events <i class="fas fa-fire"></i></h2>			
 		</div>
 
 		<div class="events-container">
@@ -68,7 +68,7 @@
 	<!-- PAST EVENT-->
 	<div class="events">
 		<div class="events-heading">
-			<h2>Past Events</h2>			
+			<h2>Past Events <i class="fas fa-award"></i></h2>			
 		</div>
 
 		<div class="events-container">
