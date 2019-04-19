@@ -61,3 +61,36 @@
 	content: "";
 	clear: both;
 }
+
+
+
+/* Events for tablets*/
+@media only screen and (max-width: 900px){
+		
+		.events-heading h2{
+
+			font-size: 32px;
+		}
+
+		.events-container-box{
+
+			flex-basis: 260px;
+		}
+}
+
+/* Events for Smartphones*/
+@media only screen and (max-width: 500px){
+
+	.events-heading h2{
+
+		font-size: 28px;
+	}
+
+	.events-container-box{
+
+		flex-basis: 220px;
+	}
+
+}
+
+

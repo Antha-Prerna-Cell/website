@@ -2,62 +2,61 @@
 <!-- HOME -->
 <div id="home">
 
+
+
 	<!-- HOME-MAIN -->
 	<div class="home-main home-box-blue home-pad20">
-		<div>
-			<img src="assets/apc-logo.png">
+
+		<div id="light1">			
 		</div>
-		<div>
-			<h1>Antha Preena Cell</h1>
-			<strong>Software Development Cell of Ramanujan College</strong>
+
+		<div class="home-main-logo">
+			<img src="assets/apc-logo-light.png">
 		</div>
-		<div class="home-main-display home-pad20">
-			<div class="home-main-display-circle"></div>
-			<div class="home-main-display-circle"><i class="fas fa-chart-line"><span>asd</span></i></div>
-			<div class="home-main-display-circle"><i class="fas fa-code-branch"><span>asd</span></i></div>
-			<div class="home-main-display-circle"></div>
 
-			<div class="home-main-display-circle"><i class="fas fa-database"><span>asd</span></i></div>
-			<div class="home-main-display-circle"></div>
-			<div class="home-main-display-circle"></div>
-			<div class="home-main-display-circle"><i class="fab fa-ethereum"><span>asd</span></i></div>
-
-			<div class="home-main-display-circle"><i class="fas fa-rocket"><span>asd</span></i></div>
-			<div class="home-main-display-circle"></div>
-			<div class="home-main-display-circle"></div>
-			<div class="home-main-display-circle"><i class="fas fa-seedling"><span>asd</span></i></div>
-
-			<div class="home-main-display-circle"></div>
-			<div class="home-main-display-circle"><i class="fas fa-shield-alt"><span>asd</span></i></div>
-			<div class="home-main-display-circle"><i class="fas fa-beer"><span>asd</span></i></div>
-			<div class="home-main-display-circle"></div>
-
+		<div class="home-main-about">
+			<h1>Antha Prerna</h1>
+			Software Development Cell of Ramanujan College,<br>
+			University Of Delhi
 		</div>
+
+
+		<div onclick="document.getElementById('apply').scrollIntoView()" class="home-down-arrow home-box-blue home-pad20">
+			<i></i><br><br>
+			<i class="fas fa-3x fa-angle-double-down"></i>
+		</div>
+
 	</div><!-- HOME-MAIN Ends -->
 
-	<div onclick="document.getElementById('home-container').scrollIntoView()" class="home-down-arrow home-box-blue home-pad20">
-		<i class="fas fa-5x fa-angle-double-down"></i>
-		<!-- <img src="assets/down-arrow.png"> -->
+
+
+
+	
+	<div id="home-display" class="home-display ">
+		<!-- <div class="home-display-circle home-box-dark-yellow" style="order: 2;"><i class="fas fa-chart-line"></i><span>asd</span></div> -->
+
+		<!-- <div class="home-display-circle home-box-grey" style="order: 3;"><i class="fas fa-code-branch"></i><span>asd</span></div> -->
+
+		<div class="home-display-circle home-box-orange" style="order: 5;"><i class="fas fa-database"></i><span>asd</span></div>
+
+		<div class="home-display-circle home-box-purple" style="order: 8;"><i class="fab fa-ethereum"></i><span>asd</span></div>
+
+		<!-- <div class="home-display-circle home-box-dark-blue" style="order: 9;"><i class="fas fa-rocket"></i><span>asd</span></div> -->
+
+		<div class="home-display-circle home-box-green" style="order: 9;"><i class="fas fa-seedling"></i><span>asd</span></div>
+
+
+		<!-- <div class="home-display-circle" style="order: 14;"><i class="fas fa-shield-alt"></i><span>asd</span></div> -->
+		<!-- <div class="home-display-circle" style="order: 15;"><i class="fas fa-beer"></i><span>asd</span></div> -->
 	</div>
 
-	<!-- HOME-CONTAINER -->
-	<div id="home-container" class="home-container ">
-		<div class="home-container-box home-box-orange home-pad20">
-				<h2>Want an App/Website for your Business?</h2>
-				<img src="assets/home-container-box-sample.svg">
-				<p>Some cool text here, Some cool text here, Some cool text here, Some cool text here, Some cool text here, Some cool text here, Some cool text here, Some cool text here, </p>
-		</div>
-		<div class="home-container-box home-box-purple home-pad20">
-				<h2>We Code cool stuff for you</h2>
-				<img src="assets/home-container-box-sample.svg">
-				<p>Some cool text here, Some cool text here, Some cool text here, Some cool text here, Some cool text here, Some cool text here, Some cool text here, </p>
-		</div>
-		<div class="home-container-box home-box-green home-pad20">
-				<h2>With Latest Technologies</h2>
-				<img src="assets/home-container-box-sample.svg">
-				<p>Some cool text here, Some cool text here, Some cool text here, Some cool text here, Some cool text here, Some cool text here, Some cool text here, Some cool text here, </p>
-		</div>
-	</div>
+	
+
+
+
+
+
+
 	<!-- HOME-CONTAINER Ends -->
 
 	<!-- HOME-APPLY -->
@@ -65,6 +64,8 @@
 			<h3>How to Apply? <i class="far fa-handshake"></i></h3>
 			Mail us at abc@gmail.com with your contact details and attach a pdf with <a href="assets/proposal.pdf">this</a> format containing details of your desired product.
 	</div>
+
+
 
 
 	<!-- HOME-QUOTES -->

@@ -18,7 +18,7 @@
 						<div class="projects-container-box-description">
 							Some short description here, Some short description here, Some short description here, Some short description here, 
 							Some short description here, Some short description here, Some short description here, Some short description here, <br><br>
-							<u>more...</u>
+							<u>click here for more...</u>
 						</div>
 						<div class="projects-container-box-img"><img src="assets/asd.png"></div>
 					</div>

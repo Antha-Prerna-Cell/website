@@ -48,3 +48,17 @@
 	margin-top: 20px;
 	margin-bottom: 20px;
 }
+
+
+/* Team for Smartphone*/
+@media only screen and (max-width: 600px){
+
+	.team-container{
+		justify-content: center;
+	}
+
+	.team-member{
+		margin-top: 30px;
+	}
+
+}

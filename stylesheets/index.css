@@ -7,6 +7,13 @@ html,body
 	scroll-behavior: smooth;
 }
 
+
+
+
+
+/*Nav Starts Here*/
+
+
 #nav-options{
 	float: right;
 
@@ -28,6 +35,7 @@ html,body
 
 nav{
 	background-color: rgb(74, 160, 216);
+	background-image: url("/assets/home-background.png");
 	color: #FFF;
 }
 
@@ -39,20 +47,7 @@ nav:after{
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/*Nav Ends Here*/
 
 
 
@@ -70,7 +65,13 @@ footer{
 	padding-bottom: 30px;
 	background-color: rgb(53, 65, 73);
 	color: rgb(255,255,255);
-	font-size: 28px;
+	font-size: 38px;
+}
+
+#footer-logo{
+
+	width: 50px;
+	height: 50px;
 }
 
 footer img{
@@ -98,4 +99,73 @@ footer:after{
 	text-decoration: none;
 	color: #fff;
 	font-size: 16px;
+}
+
+
+
+/*Footer Ends Here*/
+
+
+
+
+
+
+
+
+
+
+/* For Footer Tablet and Smartphone*/
+@media only screen and (max-width: 1000px) {
+
+
+		footer{
+			font-size: 24px;
+			text-align: center;
+		}
+
+		#footer-logo{
+
+			width: 60px;
+			height: 60px;
+		}
+
+		footer strong{
+			display: block;
+			margin-bottom: 40px;
+		}
+
+
+		.footer-link{
+			margin-bottom: 10px;
+			margin-left: 10px;
+			border: 1px rgb(83, 95, 103) solid;
+			border-radius: 10px;
+		}
+
+		footer img{
+			width: 20px;
+			height: 20px;
+		}
+
+		.footer-link a{
+			font-size: 12px;
+		}
+
+
+		nav{
+			text-align: center;
+		}
+		#nav-options{
+			float: none;
+		}
+		.nav-options-input{
+			font-weight: normal;
+			font-size: 18px;
+			border: 1px rgb(104, 190, 246) solid;
+			border-radius: 10px;
+			padding: 5px;
+			margin: 10px;
+		}
+
+
 }

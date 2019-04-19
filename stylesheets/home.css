@@ -3,31 +3,32 @@
 	padding: 20px;
 }
 
+
 .home-main {
-	height: 65vh;
-	display: flex;
-	flex-wrap: wrap;
-	align-items: center;
+	min-height: 90vh;
+	display: block;
 }
 
-.home-main img{
-	padding: 25px;
-	width: 140px;
+.home-main-logo{
+	text-align: center;
+	padding-top: 70px;
 }
 
-.home-main div{
+.home-main-logo img{
+	height: 25vh;
+	opacity: 1.0;
+}
+
+.home-main-about{
 	font-size: 30px;
-	color: #eee;
-	/*background-color: red;*/
+	color: #fff;
+	padding-left: 30px;
+	display: block;
 }
 
-.home-main h1{
-	padding-left: 30px;
+.home-main-about h1{
 	font-size: 64px;
 }
-
-
-
 
 
 
@@ -53,46 +54,82 @@
 	clear: both;
 }
 
-.home-container{
-	display: flex;
+
+
+
+#light1{
+	height: 60vh;
+	width: 60vh;
+	z-index: 1;
+	opacity: 0.4;
+	position: absolute;
+	right: 10vh;
+	top: 50px;
+	background-image: url("/assets/ghosty.svg");
+	background-size: 100% 100%;
 }
 
-.home-container-box{
-	flex: 1;
 
-	height: 400px;
-	text-align: center;
-	color: rgb(255, 255, 255);
-}
-.home-container-box img {
-	vertical-align: middle;
-	height: 113px;
-	margin: 40px;
-}
+
+
+
+
 
 .home-box-blue{
 	color: rgb(255, 255, 255);
 	background-color: rgb(74, 160, 216);
+	background-image: url("/assets/home-background.png");
 }
+
 
 .home-box-purple{
-	background-color: rgb(160, 91, 255);
+	color: rgb(168, 109, 249);
+	border-color: rgb(168, 109, 249);
 }
-
 
 .home-box-green{
-	background-color:  rgb(145, 198, 96);
+	color:  rgb(145, 198, 96);
+	border-color: rgb(145, 198, 96);
 }
 
-.home-box-orange{
-	background-color:  rgb(238, 175, 73);
+.home-box-dark-yellow{
+	color:  rgb(238, 175, 73);
+	border-color: rgb(238, 175, 73);
 }
 
 .home-box-red{
-	background-color:  #ff4d4d;
+	color:  #f94d4d;
+	border-color: #f94d4d;
 }
 
- /*green #76a973ff*/
+.home-box-yellow{
+	color:  #fcf964;
+	border-color: #fcf964;
+}
+
+.home-box-cyan{
+	color: #5bffc8;
+	border-color: #5bffc8;
+}
+
+.home-box-dark-blue{
+	color: #5b73ff;
+	border-color: #5b73ff;
+}
+
+.home-box-orange{
+	color: #ff6e51;
+	border-color: #ff6e51;
+}
+
+.home-box-grey{
+	color: #34363a;
+	border-color: #34363a;
+}
+
+
+
+
 
 
 
@@ -106,6 +143,9 @@
 .home-apply h3{
 	color: rgb(74, 160, 216);
 }
+
+
+
 
 .home-quotes{
 	font-size: 28px;
@@ -152,141 +192,145 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-.home-main-display{
-	flex: 1;
-	flex-grow: 0;
-	flex-shrink: 0;
-	flex-basis: 330px;
-	height: 330px;
-
+.home-display{
 
 	display: flex;
 	flex-wrap: wrap;
+	justify-content: space-around;
+	align-items: center;
+	
+	padding-top: 50px;
 
-
-
-	-webkit-animation-name: spin;
-    -webkit-animation-duration: 10000ms;
-    -webkit-animation-iteration-count: infinite;
-    -webkit-animation-timing-function: linear;
-    -moz-animation-name: spin;
-    -moz-animation-duration: 10000ms;
-    -moz-animation-iteration-count: infinite;
-    -moz-animation-timing-function: linear;
-    -ms-animation-name: spin;
-    -ms-animation-duration: 10000ms;
-    -ms-animation-iteration-count: infinite;
-    -ms-animation-timing-function: linear;
-    
-    animation-name: spin;
-    animation-duration: 10000ms;
-    animation-iteration-count: infinite;
-    animation-timing-function: linear;
+	background-image: url("/assets/home-background.png");
+	background-repeat: repeat;
 }
 
-.home-main-display-circle{
+
+.home-display-circle{
+
 	flex-grow: 0;
 	flex-shrink: 0;
-	flex:1;
 
-	flex-basis: 80px;
-	height: 80px;
-	/*border: 1px #ccc solid;*/
-
+	display: inline-block;
 	text-align: center;
-	padding-top: 10px;
 
-	-webkit-animation-name: r-spin;
-    -webkit-animation-duration: 10000ms;
-    -webkit-animation-iteration-count: infinite;
-    -webkit-animation-timing-function: linear;
-    -moz-animation-name: r-spin;
-    -moz-animation-duration: 10000ms;
-    -moz-animation-iteration-count: infinite;
-    -moz-animation-timing-function: linear;
-    -ms-animation-name: r-spin;
-    -ms-animation-duration: 10000ms;
-    -ms-animation-iteration-count: infinite;
-    -ms-animation-timing-function: linear;
-    
-    animation-name: r-spin;
-    animation-duration: 10000ms;
-    animation-iteration-count: infinite;
-    animation-timing-function: linear;
+	margin: 80px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+
 }
 
-.home-main-display-circle i{
-	border: 3px #ccc solid;
-	border-radius: 80px;
-	padding: 8px;
-	cursor: pointer;
+.home-display-circle i{
+	border: 5px solid;
+	border-radius: 120px;
+	padding: 40px;
+	display: block;
+	font-size: 60px;
+
 }
 
-.home-main-display-circle span{
-	position: absolute;
-	left: 80px;
-	display: none;
-	background-color: #555;
-  	color: #fff;
-  	text-align: center;
-  	border-radius: 6px;
-  	padding: 8px;
-  	opacity: 0.8;
-  	z-index: 1;
-  	font-weight: normal;
-  	font-size: 18px;
-}
-
-.home-main-display-circle i:hover span{
-	position: absolute;
-	display: inline;
-}
-
-@-ms-keyframes spin {
-    from { -ms-transform: rotate(0deg); }
-    to { -ms-transform: rotate(360deg); }
-}
-@-moz-keyframes spin {
-    from { -moz-transform: rotate(0deg); }
-    to { -moz-transform: rotate(360deg); }
-}
-@-webkit-keyframes spin {
-    from { -webkit-transform: rotate(0deg); }
-    to { -webkit-transform: rotate(360deg); }
-}
-@keyframes spin {
-    from { transform:rotate(0deg); }
-    to { transform:rotate(360deg); }
+.home-display-circle span{
+	display: block;
+  	margin-top: 25px;
+  	font-size: 28px;
+  	font-weight: bold;
 }
 
 
 
-@-ms-keyframes r-spin {
-    from { -ms-transform: rotate(360deg); }
-    to { -ms-transform: rotate(0deg); }
-}
-@-moz-keyframes r-spin {
-    from { -moz-transform: rotate(360deg); }
-    to { -moz-transform: rotate(0deg); }
-}
-@-webkit-keyframes r-spin {
-    from { -webkit-transform: rotate(360deg); }
-    to { -webkit-transform: rotate(0deg); }
-}
-@keyframes r-spin {
-    from { transform:rotate(360deg); }
-    to { transform:rotate(0deg); }
+
+
+
+
+
+
+
+/*For tablets*/
+
+@media only screen and (max-width: 1250px){
+
+	#light1{
+		display: none;
+	}
+
+	.home-apply{
+		font-size: 26px;
+	}
+	
+	.home-quotes{
+		font-size: 28px;
+	}
+	
+	.home-quotes-container-box{
+		font-size: 20px;
+	}
+
+	.home-display-circle i{
+		padding: 30px;
+		font-size: 48px;
+	}
+
 }
 
+
+
+
+
+/*For Smartphones*/
+@media only screen and (max-width: 600px){
+
+	.pad-20{
+		padding: 10px;
+	}
+
+	.home-main-logo{
+		padding-top: 20px;
+	}
+
+	.home-main-about{
+		font-size: 24px;
+	}
+
+	.home-main-about h1{
+		padding: 0px;
+		text-align: center;
+	}
+
+
+	.home-apply{
+		font-size: 16px;
+		padding-left: 30px;		
+	}
+	.home-apply h3{
+		font-size: 24px;
+	}
+
+
+	.home-quotes{
+		font-size: 16px;
+		padding-left: 30px;
+	}
+	.home-quotes h3{
+		font-size: 24px;
+		padding-bottom: 20px;
+	}
+	.home-quotes-container-box{
+		font-size: 14px;
+		margin-left: 0px;
+		margin-top: 0px;
+		margin-bottom: 20px;
+	}
+
+	.home-display-circle{
+		margin: 40px;
+		margin-bottom: 0px;
+
+	}
+
+	.home-display-circle i{
+		padding: 20px;
+		font-size: 38px;
+	}
+
+
+}

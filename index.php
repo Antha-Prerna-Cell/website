@@ -44,7 +44,7 @@
 	
 	<!--google fonts-->
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
-	<script type="text/javascript" src="data.js"></script>
+	
 
 </head>
 
@@ -109,8 +109,8 @@
 
 
 	<footer id="contacts">
-		<img src="assets/apc-white-logo.png">
-		<strong>Antha Prerna Cell</strong> <sup> &copy; </sup>
+		<img id="footer-logo" src="assets/apc-white-logo.png">
+		<strong> Antha Prerna Cell<sup>&copy;</sup></strong>
 
 		<div class="footer-link"><a href="">Mail-us <img src="assets/mail-logo.svg"></a></div>
 		<div class="footer-link"><a href="">Call-us <img src="assets/call-logo.svg"> +91 9000000000</a></div>

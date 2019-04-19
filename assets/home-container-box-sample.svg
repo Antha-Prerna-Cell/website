@@ -13,14 +13,15 @@
    id="Layer_1"
    x="0px"
    y="0px"
-   viewBox="0 0 197.8 107"
-   style="enable-background:new 0 0 197.8 107;"
+   viewBox="0 0 197.63598 106.536"
    xml:space="preserve"
    sodipodi:docname="home-container-box-sample.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   width="197.63599"
+   height="106.536"><metadata
    id="metadata59"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
    id="defs57" /><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
@@ -35,12 +36,16 @@
    id="namedview55"
    showgrid="false"
    inkscape:zoom="1.7745197"
-   inkscape:cx="98.900002"
-   inkscape:cy="53.5"
+   inkscape:cx="-95.96434"
+   inkscape:cy="7.3180001"
    inkscape:window-x="0"
    inkscape:window-y="27"
    inkscape:window-maximized="1"
-   inkscape:current-layer="Layer_1" />
+   inkscape:current-layer="Layer_1"
+   fit-margin-top="0"
+   fit-margin-left="0"
+   fit-margin-right="0"
+   fit-margin-bottom="0" />
 <style
    type="text/css"
    id="style2">
@@ -55,28 +60,30 @@
 </style>
 <g
    id="g52"
-   style="fill:none">
+   style="fill:none"
+   transform="translate(0.11800003,-0.28199997)">
 	<g
    id="g8"
    style="fill:none">
 		<path
    class="st0"
-   d="M102.3,84.6H5.1c-2.3,0-4.1-1.8-4.1-4.1V5.5c0-2.3,1.8-4.1,4.1-4.1H117c2.3,0,4.1,1.8,4.1,4.1V34"
+   d="M 102.3,84.6 H 5.1 C 2.8,84.6 1,82.8 1,80.5 V 5.5 C 1,3.2 2.8,1.4 5.1,1.4 H 117 c 2.3,0 4.1,1.8 4.1,4.1 V 34"
    id="path4"
-   style="fill:none" />
+   style="fill:none;stroke:#546a79;stroke-width:2.23600006;stroke-linecap:round;stroke-miterlimit:10"
+   inkscape:connector-curvature="0" />
 		<polyline
    class="st0"
    points="98.6,69.9 7.6,69.9 7.6,7.5 115,7.5 115,30.7   "
    id="polyline6"
-   style="fill:none" />
+   style="fill:none;stroke:#546a79;stroke-width:2.23600006;stroke-linecap:round;stroke-miterlimit:10" />
 	</g>
 	<circle
    class="st0"
    cx="62"
-   cy="77.1"
+   cy="77.099998"
    r="3.3"
    id="circle10"
-   style="fill:none" />
+   style="fill:none;stroke:#546a79;stroke-width:2.23600006;stroke-linecap:round;stroke-miterlimit:10" />
 	<g
    id="g16"
    style="fill:none">
@@ -87,55 +94,55 @@
    style="fill:none" />
 		<line
    class="st0"
-   x1="78.7"
-   y1="84.7"
-   x2="80.6"
-   y2="98.2"
+   x1="78.699997"
+   y1="84.699997"
+   x2="80.599998"
+   y2="98.199997"
    id="line14"
-   style="fill:none" />
+   style="fill:none;stroke:#546a79;stroke-width:2.23600006;stroke-linecap:round;stroke-miterlimit:10" />
 	</g>
 	<rect
-   x="35.7"
-   y="98.3"
+   x="35.700001"
+   y="98.300003"
    class="st0"
    width="52.5"
-   height="7.4"
+   height="7.4000001"
    id="rect18"
-   style="fill:none" />
+   style="fill:none;stroke:#546a79;stroke-width:2.23600006;stroke-linecap:round;stroke-miterlimit:10" />
 	<rect
-   x="18.7"
+   x="18.700001"
    y="17"
    class="st0"
    width="64.5"
-   height="43.2"
+   height="43.200001"
    id="rect20"
-   style="fill:none" />
+   style="fill:none;stroke:#546a79;stroke-width:2.23600006;stroke-linecap:round;stroke-miterlimit:10" />
 	<line
    class="st0"
    x1="19"
    y1="23.5"
-   x2="83.1"
+   x2="83.099998"
    y2="23.5"
    id="line22"
-   style="fill:none" />
+   style="fill:none;stroke:#546a79;stroke-width:2.23600006;stroke-linecap:round;stroke-miterlimit:10" />
 	<circle
    class="st3"
    cx="24.6"
-   cy="20.2"
+   cy="20.200001"
    r="1.1"
    id="circle24"
    style="fill:none" />
 	<circle
    class="st3"
    cx="27.9"
-   cy="20.2"
+   cy="20.200001"
    r="1.1"
    id="circle26"
    style="fill:none" />
 	<circle
    class="st3"
    cx="31.1"
-   cy="20.2"
+   cy="20.200001"
    r="1.1"
    id="circle28"
    style="fill:none" />
@@ -143,61 +150,64 @@
    class="st0"
    points="26.3,47.5 34.9,39.8 40.9,45.2 54.9,32.5 63.4,40.2 76.7,40.2  "
    id="polyline30"
-   style="fill:none" />
+   style="fill:none;stroke:#546a79;stroke-width:2.23600006;stroke-linecap:round;stroke-miterlimit:10" />
 	<polyline
    class="st2"
    points="25.6,41.3 34.1,48.9 48.9,48.9 63.2,35.6 76.7,35.6  "
    id="polyline32"
-   style="fill:none" />
+   style="fill:none;stroke:#546a79;stroke-width:2.23600006;stroke-linecap:round;stroke-miterlimit:10" />
 	<polyline
    class="st0"
    points="89.1,24.4 94.8,24.4 94.8,60.1 89.1,60.1  "
    id="polyline34"
-   style="fill:none" />
+   style="fill:none;stroke:#546a79;stroke-width:2.23600006;stroke-linecap:round;stroke-miterlimit:10" />
 	<polyline
    class="st0"
    points="116,53.1 107,53.1 107,40.3 116,40.3 116,45.4 122.1,45.4 122.1,40.3 131.5,40.3 131.5,45.4    137.2,45.4 137.2,40.3 146.8,40.3 146.8,53.1 137.9,53.1  "
    id="polyline36"
-   style="fill:none" />
+   style="fill:none;stroke:#546a79;stroke-width:2.23600006;stroke-linecap:round;stroke-miterlimit:10" />
 	<path
    class="st0"
-   d="M137.6,88.7h-21.8c-4.8,0-8.7-3.9-8.7-8.7V60.6h39.5v19C146.6,84.7,142.6,88.7,137.6,88.7z"
+   d="m 137.6,88.7 h -21.8 c -4.8,0 -8.7,-3.9 -8.7,-8.7 V 60.6 h 39.5 v 19 c 0,5.1 -4,9.1 -9,9.1 z"
    id="path38"
-   style="fill:none" />
+   style="fill:none;stroke:#546a79;stroke-width:2.23600006;stroke-linecap:round;stroke-miterlimit:10"
+   inkscape:connector-curvature="0" />
 	<path
    class="st0"
-   d="M126.9,68.5L126.9,68.5c-3.2,0-5.8,2.6-5.8,5.8v3.9c0,1,0.8,1.9,1.9,1.9h7.8c1,0,1.9-0.8,1.9-1.9v-3.9   C132.6,71.1,130.1,68.5,126.9,68.5z"
+   d="m 126.9,68.5 v 0 c -3.2,0 -5.8,2.6 -5.8,5.8 v 3.9 c 0,1 0.8,1.9 1.9,1.9 h 7.8 c 1,0 1.9,-0.8 1.9,-1.9 v -3.9 c -0.1,-3.2 -2.6,-5.8 -5.8,-5.8 z"
    id="path40"
-   style="fill:none" />
+   style="fill:none;stroke:#546a79;stroke-width:2.23600006;stroke-linecap:round;stroke-miterlimit:10"
+   inkscape:connector-curvature="0" />
 	<g
    id="g50"
    style="fill:none">
 		<path
    class="st0"
-   d="M134.9,14.8H189c1.9,0,3.4,1.6,3.4,3.4v44c0,1.9-1.6,3.4-3.4,3.4h-19"
+   d="M 134.9,14.8 H 189 c 1.9,0 3.4,1.6 3.4,3.4 v 44 c 0,1.9 -1.6,3.4 -3.4,3.4 h -19"
    id="path42"
-   style="fill:none" />
+   style="fill:none;stroke:#546a79;stroke-width:2.23600006;stroke-linecap:round;stroke-miterlimit:10"
+   inkscape:connector-curvature="0" />
 		<circle
    class="st0"
-   cx="191.4"
+   cx="191.39999"
    cy="44.5"
    r="5"
    id="circle44"
-   style="fill:none" />
+   style="fill:none;stroke:#546a79;stroke-width:2.23600006;stroke-linecap:round;stroke-miterlimit:10" />
 		<circle
    class="st0"
    cx="169.3"
-   cy="65.7"
+   cy="65.699997"
    r="5"
    id="circle46"
-   style="fill:none" />
+   style="fill:none;stroke:#546a79;stroke-width:2.23600006;stroke-linecap:round;stroke-miterlimit:10" />
 		<circle
    class="st0"
-   cx="137.6"
+   cx="137.60001"
    cy="14.3"
    r="5"
    id="circle48"
-   style="fill:none" />
+   style="fill:none;stroke:#546a79;stroke-width:2.23600006;stroke-linecap:round;stroke-miterlimit:10" />
 	</g>
 </g>
 </svg>
