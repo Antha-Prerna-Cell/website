@@ -5,36 +5,31 @@
 	<meta charset="UTF-8">
 	<meta content="width=device-width, initial-scale=1" name="viewport">
 
-	<meta name="keywords" content="Turington, Ramanujan College, Delhi University, Coding, PHP, C++, javascript, JAVA, Python, Ramanujan, DU, Software Development, Cell, Antha Prerna Cell, DU_CS, University of Delhi, website, app, Delhi, India ">
+	<meta name="keywords" content="Turington, Ramanujan College, Delhi University, Coding, PHP, C++, javascript, JAVA, Python, Ramanujan, DU, Software Development, Cell, Antha Prerna Cell, DU_CS, University of Delhi, website, app, Delhi, India, programmers, Developers, DevOps, Containers, Blockchain, Machine Learning, start up, freelancing  ">
 
 	<meta name="title" content="Antha Prerna Cell">
-	<meta name="description" content="">
+	<meta name="description" content="Software Development Cell of Ramanujan College, University Of Delhi">
 	<meta name="author" href="https://github.com/parthyadav3105/" content="Parth yadav">
+
 	<meta property="og:type" content="website">
 	<meta property="og:url" content="https://turington.in">
 	<meta property="og:site_name" content="Antha Prerna Cell">
 	<meta property="og:title" content="Antha Prerna Cell">
-	<meta property="og:description" content="The annual technical fest of Ramanujan College, Delhi University.">
-	<meta property="og:type" content="website">
-	<meta property="og:image" itemprop="image" content="https://faisalakhtar.in/Turington19/favicon.png">
-	<meta property="og:site_name" content="Turington 2k19">
-	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:url" content="https://turington.in">
-	<meta name="twitter:site_name" content="Turington 2k19">
-	<meta name="twitter:title" content="Turington 2k19">
-	<meta name="twitter:description" content="The annual technical fest of Department of Computer Science, Ramanujan College, Delhi University.">
-	<meta name="twitter:type" content="website">
-	<meta name="twitter:image" itemprop="image" content="https://faisalakhtar.in/Turington19/favicon.png">
-	<meta name="twitter:image:alt" content="Turington 2k19 logo">
+	<meta property="og:description" content="Software Development Cell of Ramanujan College, University Of Delhi">
 	
-	<title>TuringTon 2k19</title>
+	<meta property="og:image" itemprop="image" content="https://     ******** /apc-logo.png">
+	
+	
+	
+	<title>Antha Prerna | Software Development Cell of Ramanujan College University Of Delhi</title>
 
 
 	<!-- Logo on tab -->
-	<link rel="icon" href="img/turington logo.jpeg">
+	<link rel="icon" href="assets/apc-logo.png">
 	
 	<!-- Add social media icon library -->
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+
 	<!--our css files-->
 	<link rel="stylesheet" href="stylesheets/index.css">
 	<link rel="stylesheet" href="stylesheets/home.css">
@@ -47,6 +42,8 @@
 	
 
 </head>
+
+
 
 
 <body onload="shiftFocusToHome()">

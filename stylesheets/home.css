@@ -224,7 +224,7 @@
 	border: 5px solid;
 	border-radius: 120px;
 	padding: 40px;
-	display: block;
+	display: inline-block;
 	font-size: 60px;
 
 }
@@ -323,6 +323,7 @@
 
 	.home-display-circle{
 		margin: 40px;
+		margin-top: 70px;
 		margin-bottom: 0px;
 
 	}

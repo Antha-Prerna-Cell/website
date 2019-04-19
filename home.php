@@ -37,13 +37,19 @@
 
 		<!-- <div class="home-display-circle home-box-grey" style="order: 3;"><i class="fas fa-code-branch"></i><span>asd</span></div> -->
 
-		<div class="home-display-circle home-box-orange" style="order: 5;"><i class="fas fa-database"></i><span>asd</span></div>
+		<!-- <div class="home-display-circle home-box-orange" style="order: 5;"><i class="fas fa-database"></i><span>asd</span></div> -->
 
-		<div class="home-display-circle home-box-purple" style="order: 8;"><i class="fab fa-ethereum"></i><span>asd</span></div>
+		<!-- <div class="home-display-circle home-box-purple" style="order: 8;"><i class="fab fa-ethereum"></i><span>asd</span></div> -->
 
-		<!-- <div class="home-display-circle home-box-dark-blue" style="order: 9;"><i class="fas fa-rocket"></i><span>asd</span></div> -->
+		<div class="home-display-circle home-box-green" style="order: 9;"><i class="fas fa-seedling"></i><span>Grow your Bussiness<br> with us</span></div>
 
-		<div class="home-display-circle home-box-green" style="order: 9;"><i class="fas fa-seedling"></i><span>asd</span></div>
+		<div class="home-display-circle home-box-purple" style="order: 8;"><i class="fas fa-shield-alt"></i><span>Get Secured <br>Apps</span></div>
+
+		<div class="home-display-circle home-box-red" style="order: 9;"><i class="fas fa-rocket"></i><span>Fastest Delivery</span></div>
+
+
+		
+
 
 
 		<!-- <div class="home-display-circle" style="order: 14;"><i class="fas fa-shield-alt"></i><span>asd</span></div> -->
