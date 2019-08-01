@@ -10,12 +10,46 @@
 
 		<!--TEAM-CONTAINER-->
 		<div class="team-container">
-
+                            <a href="info.html">
+							<div class="team-member">
+								<img src="assets/profile-pic.jpg"><br>
+								<strong>Dr.Kamlesh kumar Raghuvanshi </strong><br>
+								Director of The Cell <br>
+								<u>more</u>...
+							</div>
+							</a>
+            
+             <a href="info.html">
+							<div class="team-member">
+								<img src="assets/profile-pic.jpg"><br>
+								<strong>Mr.Arun Agarwal</strong><br>
+								Assistant Director<br>
+								<u>more</u>...
+							</div>
+							</a> 
+            
+             <a href="info.html">
+							<div class="team-member">
+								<img src="assets/profile-pic.jpg"><br>
+								<strong>Mr.Vipin Rathi</strong><br>
+								Assistant Director<br>
+								<u>more</u>...
+							</div>
+							</a>
+             <a href="info.html">
+							<div class="team-member">
+								<img src="assets/profile-pic.jpg"><br>
+								<strong>Mr.Hemant Kumar</strong><br>
+								Assistant Director<br>
+								<u>more</u>...
+							</div>
+							</a>
+            
 							<a href="info.html">
 							<div class="team-member">
 								<img src="assets/profile-pic.jpg"><br>
-								<strong>Name</strong><br>
-								Desination<br>
+								<strong>Ritik</strong><br>
+								CEO<br>
 								<u>more</u>...
 							</div>
 							</a>
@@ -24,8 +58,8 @@
 							<a href="info.html">
 							<div class="team-member">
 								<img src="assets/profile-pic.jpg"><br>
-								<strong>Name</strong><br>
-								Desination<br>
+								<strong>Parth</strong><br>
+								CTO<br>
 								<u>more</u>...
 							</div>
 							</a>
@@ -33,8 +67,8 @@
 							<a href="info.html">
 							<div class="team-member">
 								<img src="assets/profile-pic.jpg"><br>
-								<strong>Name</strong><br>
-								Desination<br>
+								<strong>Adarsh</strong><br>
+								Security and Testing<br>
 								<u>more</u>...
 							</div>
 							</a>
@@ -42,8 +76,8 @@
 							<a href="info.html">
 							<div class="team-member">
 								<img src="assets/profile-pic.jpg"><br>
-								<strong>Name</strong><br>
-								Desination<br>
+								<strong>Faisal</strong><br>
+								UI Supervisor<br>
 								<u>more</u>...
 							</div>
 							</a>
@@ -51,8 +85,8 @@
 							<a href="info.html">
 							<div class="team-member">
 								<img src="assets/profile-pic.jpg"><br>
-								<strong>Name</strong><br>
-								Desination<br>
+								<strong>Namarata</strong><br>
+								Administrative Head<br>
 								<u>more</u>...
 							</div>
 							</a>
@@ -60,8 +94,8 @@
 							<a href="info.html">
 							<div class="team-member">
 								<img src="assets/profile-pic.jpg"><br>
-								<strong>Name</strong><br>
-								Desination<br>
+								<strong>Pooja </strong><br>
+								Administrative Head<br>
 								<u>more</u>...
 							</div>
 							</a>
@@ -69,60 +103,13 @@
 							<a href="info.html">
 							<div class="team-member">
 								<img src="assets/profile-pic.jpg"><br>
-								<strong>Name</strong><br>
-								Desination<br>
+								<strong>Mohit</strong><br>
+								Management and HR<br>
 								<u>more</u>...
 							</div>
 							</a>
 
-
-							<a href="info.html">
-							<div class="team-member">
-								<img src="assets/profile-pic.jpg"><br>
-								<strong>Name</strong><br>
-								Desination<br>
-								<u>more</u>...
-							</div>
-							</a>
-
-
-							<a href="info.html">
-							<div class="team-member">
-								<img src="assets/profile-pic.jpg"><br>
-								<strong>Name</strong><br>
-								Desination<br>
-								<u>more</u>...
-							</div>
-							</a>
-
-							<a href="info.html">
-							<div class="team-member">
-								<img src="assets/profile-pic.jpg"><br>
-								<strong>Name</strong><br>
-								Desination<br>
-								<u>more</u>...
-							</div>
-							</a>
-
-
-							<a href="info.html">
-							<div class="team-member">
-								<img src="assets/profile-pic.jpg"><br>
-								<strong>Name</strong><br>
-								Desination<br>
-								<u>more</u>...
-							</div>
-							</a>
-
-
-							<a href="info.html">
-							<div class="team-member">
-								<img src="assets/profile-pic.jpg"><br>
-								<strong>Name</strong><br>
-								Desination<br>
-								<u>more</u>...
-							</div>
-							</a>
+  
 			
 		</div><!--TEAM-CONTAINER Ends-->
 		
