@@ -119,7 +119,7 @@
 		<strong> Antha Prerna Cell<sup>&copy;</sup></strong>
 
 		<div class="footer-link"><a href="">Mail-us <img src="assets/mail-logo.svg"></a></div>
-		<div class="footer-link"><a href="">Call-us <img src="assets/call-logo.svg"> +91 9000000000</a></div>
+		<div class="footer-link"><a href="">Call-us <img src="assets/call-logo.svg"> +91 9810298704</a></div>
 	</footer>
 	
 </body>
