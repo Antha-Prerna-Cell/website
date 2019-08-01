@@ -57,7 +57,7 @@
 
 							<a href="info.html">
 							<div class="team-member">
-								<img src="assets/profile-pic.jpg"><br>
+								<img src="assets/parth.jpg"><br>
 								<strong>Parth</strong><br>
 								CTO<br>
 								<u>more</u>...
