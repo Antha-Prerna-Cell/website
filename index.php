@@ -76,13 +76,22 @@
 					document.getElementById("events").style.display = "none";
 					document.getElementById("team").style.display = "none";
 
-					if((id!="apply")&&(id!="contacts"))
+					if(id!="apply")
 						document.getElementById(id).style.display = "block";
 
+					document.getElementsByTagName("BODY")[0].scrollIntoView();
+					
 					if(id=="apply")
+					{
 						document.getElementById("home").style.display = "block";
+						document.getElementById("apply").scrollIntoView(); 
+					}
+
 				}
-				document.getElementById(id).scrollIntoView(); 
+				else
+				{
+					document.getElementById(id).scrollIntoView(); 
+				}
 			}
 		</script>
 
