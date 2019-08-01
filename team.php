@@ -10,106 +10,109 @@
 
 		<!--TEAM-CONTAINER-->
 		<div class="team-container">
-                            <a href="info.html">
-							<div class="team-member">
-								<img src="assets/profile-pic.jpg"><br>
-								<strong>Dr.Kamlesh kumar Raghuvanshi </strong><br>
-								Director of The Cell <br>
-								<u>more</u>...
-							</div>
-							</a>
-            
-             <a href="info.html">
-							<div class="team-member">
-								<img src="assets/profile-pic.jpg"><br>
-								<strong>Mr.Arun Agarwal</strong><br>
-								Assistant Director<br>
-								<u>more</u>...
-							</div>
-							</a> 
-            
-             <a href="info.html">
-							<div class="team-member">
-								<img src="assets/profile-pic.jpg"><br>
-								<strong>Mr.Vipin Rathi</strong><br>
-								Assistant Director<br>
-								<u>more</u>...
-							</div>
-							</a>
-             <a href="info.html">
-							<div class="team-member">
-								<img src="assets/profile-pic.jpg"><br>
-								<strong>Mr.Hemant Kumar</strong><br>
-								Assistant Director<br>
-								<u>more</u>...
-							</div>
-							</a>
-            
+						<!-- Template
 							<a href="info.html">
 							<div class="team-member">
 								<img src="assets/profile-pic.jpg"><br>
-								<strong>Ritik</strong><br>
+								<strong>Name</strong><br>
+								Desination<br>
+								<u>more</u>...
+							</div>
+							</a>
+						-->
+
+						<a>
+							<div class="team-member">
+								<img src="assets/team/img1.jpg"><br>
+								<strong>Dr. Kamlesh Kumar<br> Raghuvanshi</strong><br>
+								Director<br>
+							</div>
+						</a>
+
+						<a>
+							<div class="team-member">
+								<img src="assets/team/img2.jpg"><br>
+								<strong>Mr. Arun Agarwal</strong><br>
+								Assistant Director<br>
+							</div>
+						</a>
+
+						<a>
+							<div class="team-member">
+								<img src="assets/team/img3.jpeg"><br>
+								<strong>Mr. Hemant Kumar</strong><br>
+								Assistant Director<br>
+							</div>
+						</a>
+
+						<a href="https://twitter.com/vipratos">
+							<div class="team-member">
+								<img src="assets/team/img4.jpg"><br>
+								<strong>Dr. Vipin Rathi</strong><br>
+								Assistant Director<br>
+								<u>more</u>...
+							</div>
+						</a>
+
+						<a>
+							<div class="team-member">
+								<img src="assets/team/img5.jpeg"><br>
+								<strong>Ritick Gautam</strong><br>
 								CEO<br>
-								<u>more</u>...
 							</div>
-							</a>
+						</a>
 
-
-							<a href="info.html">
+						<a>
 							<div class="team-member">
-								<img src="assets/parth.jpg"><br>
-								<strong>Parth</strong><br>
+								<img src="assets/team/img6.jpeg"><br>
+								<strong>Parth Yadav</strong><br>
 								CTO<br>
 								<u>more</u>...
 							</div>
-							</a>
+						</a>
 
-							<a href="info.html">
+						<a>
 							<div class="team-member">
-								<img src="assets/profile-pic.jpg"><br>
-								<strong>Adarsh</strong><br>
-								Security and Testing<br>
-								<u>more</u>...
+								<img src="assets/team/img7.jpeg"><br>
+								<strong>Adarsh Yadav</strong><br>
+								Security & Testing Head<br>
 							</div>
-							</a>
+						</a>
 
-							<a href="info.html">
+						<a>
 							<div class="team-member">
-								<img src="assets/profile-pic.jpg"><br>
-								<strong>Faisal</strong><br>
+								<img src="assets/team/img8.jpeg"><br>
+								<strong>Pooja Chauhan</strong><br>
+								Adminstrative Head<br>
+							</div>
+						</a>
+
+						<a>
+							<div class="team-member">
+								<img src="assets/team/img9.jpeg"><br>
+								<strong>Namrata Vishnoi</strong><br>
+								Adminstrative Head<br>
+							</div>
+						</a>
+
+						<a href="https://faisalakhtar.in/">
+							<div class="team-member">
+								<img src="assets/team/img10.jpeg"><br>
+								<strong>Faisal Akhtar</strong><br>
 								UI Supervisor<br>
 								<u>more</u>...
 							</div>
-							</a>
+						</a>
 
-							<a href="info.html">
+						<a>
 							<div class="team-member">
-								<img src="assets/profile-pic.jpg"><br>
-								<strong>Namarata</strong><br>
-								Administrative Head<br>
-								<u>more</u>...
+								<img src="assets/team/img11.jpeg"><br>
+								<strong>Mohit Poddar</strong><br>
+								HR<br>
 							</div>
-							</a>
+						</a>
 
-							<a href="info.html">
-							<div class="team-member">
-								<img src="assets/profile-pic.jpg"><br>
-								<strong>Pooja </strong><br>
-								Administrative Head<br>
-								<u>more</u>...
-							</div>
-							</a>
 
-							<a href="info.html">
-							<div class="team-member">
-								<img src="assets/profile-pic.jpg"><br>
-								<strong>Mohit</strong><br>
-								Management and HR<br>
-								<u>more</u>...
-							</div>
-							</a>
-
-  
 			
 		</div><!--TEAM-CONTAINER Ends-->
 		
