@@ -65,6 +65,13 @@
 
 	<!-- HOME-CONTAINER Ends -->
 
+	<!-- HOME-ABOUT -->
+	<div class="home-apply home-pad20">
+			<h3>About Cell <i class="far fa-handshake"></i></h3>
+			<p>The Antha Prerna Cell-Engineering Ideas to Reality, was inaugurated on 18 January 2019, under the aegis of the Department of Computer Science, Ramanujan College. The Cell aims to provide a platform for the students to give life to their innovative ideas by implementing them on industrial projects and nurture them as future corporate professionals. This will bridge the gap between industries and academics and make the students industry-ready. The Cell will benefit  students from all the disciplines by involving them in various aspects of the live projects.</p>
+			<p>It will facilitate the students to have industrial experience by involving them in various short-term training programmes conducted by experts from industry.</p>
+	</div>
+
 	<!-- HOME-APPLY -->
 	<div id="apply" class="home-apply home-pad20">
 			<h3>How to Apply? <i class="far fa-handshake"></i></h3>
@@ -74,7 +81,7 @@
 
 
 
-	<!-- HOME-QUOTES -->
+	<!-- HOME-QUOTES --><!--
 	<div class="home-quotes home-pad20">
 			<h3>Quotes <i class="far fa-comments"></i></h3>
 
@@ -98,6 +105,10 @@
 
 			</div>
 	</div>
+
+	-->
+
+	<div class="home-pad80"> <br><br></div>
 
 
 </div><!-- HOME Ends -->
