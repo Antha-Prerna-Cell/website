@@ -81,7 +81,7 @@
 
 
 
-	<!-- HOME-QUOTES --><!--
+	<!-- HOME-QUOTES -->
 	<div class="home-quotes home-pad20">
 			<h3>Quotes <i class="far fa-comments"></i></h3>
 
@@ -94,21 +94,10 @@
 					<q> World changes faster than you think.</q><br>
 					<span>- Parth yadav, developer</span>					
 				</div>
-				<div class="home-quotes-container-box home-pad20">
-					<q> World changes faster than you think, hello world!!!, everthing works cool!!.</q><br>
-					<span>- Parth yadav, developer</span>					
-				</div>
-				<div class="home-quotes-container-box home-pad20">
-					<q> World changes faster than you think.</q><br>
-					<span>- Parth yadav, developer</span>					
-				</div>
 
 			</div>
 	</div>
 
-	-->
-
-	<div class="home-pad80"> <br><br></div>
 
 
 </div><!-- HOME Ends -->

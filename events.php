@@ -8,9 +8,9 @@
 		</div>
 
 		<div class="events-container">
-
+			<!-- Template
 			<div class="events-container-box">
-							<h3>Expert Lecture on opportunities after graduation</h3>
+							<h3>Event Name</h3>
 							Some Description Here........
 							Some Description Here........
 							Some Description Here........
@@ -20,10 +20,10 @@
 							<u>Venue:</u> Ghalib Audotrium<br><br>
 							<a href="register.html">Register<img src="assets/arrow.png"></a>
 			</div>
-
+		-->
 
 			<div class="events-container-box">
-							<h3>Enterpreneurship workshop</h3>
+							<h3>Expert Lecture on opportunities after graduation</h3>
 							Some Description Here........
 							Some Description Here........
 							Some Description Here........
@@ -49,7 +49,7 @@
 
 
 			<div class="events-container-box">
-							<h3>Event 2</h3>
+							<h3>Turing-talks</h3>
 							Some Description Here........
 							Some Description Here........
 							Some Description Here........
@@ -73,16 +73,7 @@
 
 		<div class="events-container">
 
-			<div class="events-container-box">
-							<h3>Event 2</h3>
-							Some Description Here........
-							Some Description Here........
-							Some Description Here........
-							Some Description Here........
-							<br><br>
-							<u>Date:</u> 5th April, 2019 <br><br>
-							<a href="register.html">View More<img src="assets/arrow.png"></a>
-			</div>
+			<!--Template
 
 			<div class="events-container-box">
 							<h3>Event 2</h3>
@@ -95,8 +86,10 @@
 							<a href="register.html">View More<img src="assets/arrow.png"></a>
 			</div>
 
+		-->
+
 			<div class="events-container-box">
-							<h3>Event 2</h3>
+							<h3>Enterpreneurship workshop</h3>
 							Some Description Here........
 							Some Description Here........
 							Some Description Here........
@@ -105,6 +98,7 @@
 							<u>Date:</u> 5th April, 2019 <br><br>
 							<a href="register.html">View More<img src="assets/arrow.png"></a>
 			</div>
+
 
 		</div>
 

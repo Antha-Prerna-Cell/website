@@ -56,6 +56,46 @@
 
 						<a>
 							<div class="team-member">
+								<img src="assets/team/img12.jpeg"><br>
+								<strong>Mr. Sahil Pathak</strong><br>
+								Assistant Director<br>
+							</div>
+						</a>
+
+						<a>
+							<div class="team-member">
+								<img src="assets/team/img13.jpg"><br>
+								<strong>Ms. Bhavya Ahuja</strong><br>
+								Assistant Director<br>
+							</div>
+						</a>
+
+						<a>
+							<div class="team-member">
+								<img src="assets/team/img14.jpg"><br>
+								<strong>Dr. Nikhil Kumar Rajput</strong><br>
+								Assistant Director<br>
+							</div>
+						</a>
+
+						<a>
+							<div class="team-member">
+								<img src="assets/team/img15.jpg"><br>
+								<strong>Ms. Sheetal Singh</strong><br>
+								Assistant Director<br>
+							</div>
+						</a>
+
+						<a>
+							<div class="team-member">
+								<img src="assets/team/img16.jpg"><br>
+								<strong>Dr. Amit Kumar Singh</strong><br>
+								Assistant Director<br>
+							</div>
+						</a>
+
+						<a>
+							<div class="team-member">
 								<img src="assets/team/img5.jpeg"><br>
 								<strong>Ritick Gautam</strong><br>
 								CEO<br>
